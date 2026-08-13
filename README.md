@@ -1,7 +1,7 @@
 # Update Disabler
 QuakedK's script was forked for archive purposes
 
-This **Fork Version** fully removes all update services, scheduled tasks, System32 and SysWow64 filesand tweaks registry. Preventing Windows from re-enabling Windows Updates.
+This **Fork Version** fully removes all update services, scheduled tasks and related System32 files. This **permanently** removes Windows Update services.
 
 # Guide
 * Download .bat file from releases.
